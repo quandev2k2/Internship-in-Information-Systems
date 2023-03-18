@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RHdpBjNvDEXf6pIymMLp8Tdg8tmvM4KrlpycZLD4qYl0D4U4f1hl1bv/HHUq+6sqq6PKEwuSF0n4sui4TDpGvw==",
+  "dgSpecHash": "UqTJgvbJfKP+pxxXf3+9PnuL9NbGkz463JSKVCpwxTs6N4AqEXiqv38+XJPjd2HwlbO7HvCYCpJ8UpQyNb0NiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\BTL_TTCN.csproj",
+  "projectFilePath": "E:\\js\\Internship-in-Information-Systems\\BTL_TTCN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

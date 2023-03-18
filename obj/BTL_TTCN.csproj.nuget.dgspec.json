@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\BTL_TTCN.csproj": {}
+    "E:\\js\\Internship-in-Information-Systems\\BTL_TTCN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\BTL_TTCN.csproj": {
+    "E:\\js\\Internship-in-Information-Systems\\BTL_TTCN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\BTL_TTCN.csproj",
+        "projectUniqueName": "E:\\js\\Internship-in-Information-Systems\\BTL_TTCN.csproj",
         "projectName": "BTL_TTCN",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\BTL_TTCN.csproj",
+        "projectPath": "E:\\js\\Internship-in-Information-Systems\\BTL_TTCN.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\BTL_TTCN\\obj\\",
+        "outputPath": "E:\\js\\Internship-in-Information-Systems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
